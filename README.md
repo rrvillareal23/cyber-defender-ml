@@ -85,7 +85,3 @@ The project uses the [UNSW-NB15](https://research.unsw.edu.au/projects/unsw-nb15
 
 1. Clone this repository  
    `git clone https://github.com/yourusername/your-repo.git`
-
-2. Install dependencies  
-   ```bash
-   pip install -r requirements.txt
